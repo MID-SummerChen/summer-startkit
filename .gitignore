@@ -1,0 +1,5 @@
+*.zip
+/src/bower
+/bower_components
+/dist
+npm-debug.log
